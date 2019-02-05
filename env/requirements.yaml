@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: jx-demo-cloud-greeter
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: nipuna-jx-cloud-demo-2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
