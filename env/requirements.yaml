@@ -10,3 +10,6 @@ dependencies:
 - name: nipuna-jx-cloud-demo-2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: nipuna-jx-demo-petclinic
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
